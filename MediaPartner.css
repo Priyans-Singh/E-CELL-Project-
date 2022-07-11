@@ -1,0 +1,65 @@
+header {
+    padding: 50px;
+    background-color:black;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+h1 {
+    font-size:xx-large;
+    font-style: normal;
+    color: black;
+}
+
+nav{
+    overflow: hidden;
+}
+
+nav a {
+    text-decoration:underline;
+    padding: 65px;
+    font-size: 30px;
+    font-style:inherit; 
+    text-align: left;
+    float: left;
+    color: grey;
+}
+
+main {
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+}
+
+.single{
+    border-radius: 8px;
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.column {
+    width: 28%;
+    display: flex;
+    padding:  10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+
+.special{
+     color: rgb(72, 93, 200);
+}
