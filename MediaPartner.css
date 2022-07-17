@@ -32,6 +32,7 @@ h1 {
      font-size:35px;
      font-weight:normal;
      color: rgba(110, 108, 108, 0.874);
+     text-decoration: none;
 }
 
 .n_item_active{
