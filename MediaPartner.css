@@ -38,9 +38,10 @@ h1 {
     padding-left: 45px;
     padding-right: 45px;
     color: deepskyblue;
-    text-decoration: underline;
+    text-decoration: none;
     font-size:35px;
     font-weight:normal;
+    border-bottom: 2px solid deepskyblue;
 }
 
 main {
